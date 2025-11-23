@@ -1,0 +1,8 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb://AU:123456@localhost:27017/hotel?authMechanism=SCRAM-SHA-256
+
+server:
+  port: 8088
+
